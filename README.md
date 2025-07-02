@@ -32,4 +32,4 @@ Tā kā dati tiek glabāti tikai lokāli, lietotājs pats kontrolē to glabāša
 
 6. Sazinieties
 Jautājumu gadījumā, lūdzu, rakstiet uz:
-📧 [ievietot e-pastu šeit]
+📧 gziiverts@gmail.com
